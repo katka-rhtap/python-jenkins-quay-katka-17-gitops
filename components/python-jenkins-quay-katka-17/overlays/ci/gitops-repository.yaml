@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: python-jenkins-quay-katka-17-gitops-repository
+spec:
+  url: https://github.com/katka-rhtap/python-jenkins-quay-katka-17-gitops
