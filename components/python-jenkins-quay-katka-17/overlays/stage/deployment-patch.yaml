@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/tsscui/katka-rhtap-release-test:d1b18d425f64e8b5f48b2a53cdb42e6444b99349@sha256:1a596f86a66464cd49cfb032ee8a068a10bd87f6c1fb2244c1ac50f6bca9f27b
+      - image: quay.io/tsscui/katka-rhtap-release-test:fd9e591c83c0e7573da6f8eb8c6791326544e425@sha256:4ccd93a7b79ee4151b9a304a80bd6d97c3fb7417dcc6f3a5a84a7f1d9bd661cd
         name: container-image  
